@@ -1,0 +1,8 @@
+# Ignore files .idea
+
+.idea/
+.target/
+
+# The file containing xml variables
+*.xml
+!pom.xml
